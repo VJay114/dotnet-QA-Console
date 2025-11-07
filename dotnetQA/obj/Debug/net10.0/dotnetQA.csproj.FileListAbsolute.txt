@@ -1,0 +1,14 @@
+C:\Users\Jaypro\Desktop\DotNet QA\dotnetQA\bin\Debug\net10.0\dotnetQA.exe
+C:\Users\Jaypro\Desktop\DotNet QA\dotnetQA\bin\Debug\net10.0\dotnetQA.deps.json
+C:\Users\Jaypro\Desktop\DotNet QA\dotnetQA\bin\Debug\net10.0\dotnetQA.runtimeconfig.json
+C:\Users\Jaypro\Desktop\DotNet QA\dotnetQA\bin\Debug\net10.0\dotnetQA.dll
+C:\Users\Jaypro\Desktop\DotNet QA\dotnetQA\bin\Debug\net10.0\dotnetQA.pdb
+C:\Users\Jaypro\Desktop\DotNet QA\dotnetQA\obj\Debug\net10.0\dotnetQA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jaypro\Desktop\DotNet QA\dotnetQA\obj\Debug\net10.0\dotnetQA.AssemblyInfoInputs.cache
+C:\Users\Jaypro\Desktop\DotNet QA\dotnetQA\obj\Debug\net10.0\dotnetQA.AssemblyInfo.cs
+C:\Users\Jaypro\Desktop\DotNet QA\dotnetQA\obj\Debug\net10.0\dotnetQA.csproj.CoreCompileInputs.cache
+C:\Users\Jaypro\Desktop\DotNet QA\dotnetQA\obj\Debug\net10.0\dotnetQA.dll
+C:\Users\Jaypro\Desktop\DotNet QA\dotnetQA\obj\Debug\net10.0\refint\dotnetQA.dll
+C:\Users\Jaypro\Desktop\DotNet QA\dotnetQA\obj\Debug\net10.0\dotnetQA.pdb
+C:\Users\Jaypro\Desktop\DotNet QA\dotnetQA\obj\Debug\net10.0\dotnetQA.genruntimeconfig.cache
+C:\Users\Jaypro\Desktop\DotNet QA\dotnetQA\obj\Debug\net10.0\ref\dotnetQA.dll
